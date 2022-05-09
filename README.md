@@ -22,6 +22,12 @@
 <a href="https://instagram.com/cyberfascinate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyberfascinate" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucnyox0jmt2w5pvluetzytww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucnyox0jmt2w5pvluetzytww" height="30" width="40" /></a>
 <a href="https://discord.gg/PVnckpZzXG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PVnckpZzXG" height="30" width="40" /></a>
+ <a href="https://www.patreon.com/cyberfascinate" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Patreon_logo.svg"
+alt="adampithewan" height="30" width="40" /></a>
+   <a href="https://www.twitch.tv/cyberfascinate" target="blank"><img align="center"
+      src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitch.svg"
+      alt="adampithewan" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
