@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberfascinate&label=Profile%20views&color=0e75b6&style=flat" alt="cyberfascinate" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberfascinate" alt="cyberfascinate" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/cyberfascinate" target="blank"><img src="https://img.shields.io/twitter/follow/cyberfascinate?logo=twitter&style=for-the-badge" alt="cyberfascinate" /></a> </p>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
