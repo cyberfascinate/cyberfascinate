@@ -10,6 +10,10 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
+- 👨‍💻 All of my projects are available at [https://github.com/cyberfascinate?tab=repositories](https://github.com/cyberfascinate?tab=repositories)
+
+- 📝 I regularly write articles on [https://cyberzfascinate.blogspot.com/](https://cyberzfascinate.blogspot.com/)
+
 - 📫 How to reach me **cyberfascinate@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
