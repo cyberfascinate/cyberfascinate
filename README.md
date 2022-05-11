@@ -8,7 +8,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning Cyber Security and other programming languages
 
 - 👨‍💻 All of my projects are available at [https://github.com/cyberfascinate?tab=repositories](https://github.com/cyberfascinate?tab=repositories)
 
