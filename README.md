@@ -43,6 +43,9 @@
    <a href="https://www.patreon.com/cyberfascinate" target="blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/9/94/Patreon_logo.svg"
       alt="adampithewan" height="30" width="40" /></a>
+     <a href="https://www.linkedin.com/in/cyberfascinate" target="blank"><img align="center"
+      src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adampithewan" height="30" width="40" /></a>
 </p>
 
 <br>
