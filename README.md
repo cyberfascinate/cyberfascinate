@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kashish Kanojia</h1>
+<h1 align="center">Hi 👋, I'm Kashish Kanojia.</h1>
 <h3 align="center">Student at IGNOU, Delhi🌟.</h3>
 
 <br>
