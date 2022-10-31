@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kashish Kanojia.</h1>
 <h3 align="center">Student at IGNOU, Delhi🌟.</h3>
 
+<h1 align="left">$whoami?</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px">, I'm Rahul</h1>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=%23+whoami;%E2%9C%93+Web+Developer;%E2%9C%93+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93++;%E2%9C%93++)](https://git.io/typing-svg)
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+
+
+
 <br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberfascinate&label=Profile%20views&color=0e75b6&style=flat" alt="cyberfascinate" /> </p>
 <p align="left"> <a href="https://twitter.com/cyberfascinate" target="blank"><img src="https://img.shields.io/twitter/follow/cyberfascinate?logo=twitter&style=for-the-badge" alt="cyberfascinate" /></a> </p>
 <br>
