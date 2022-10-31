@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kashish Kanojia.</h1>
-<h3 align="center">Student at IGNOU, Delhi🌟.</h3>
-
 <h1 align="left">$whoami?</h1>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px">, I'm Rahul</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px">, I'm Kashish Kanojia</h1>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=%23+whoami;%E2%9C%93+Web+Developer;%E2%9C%93+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93++;%E2%9C%93++)](https://git.io/typing-svg)
