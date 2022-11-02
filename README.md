@@ -13,15 +13,19 @@
 <p align="left"> <a href="https://twitter.com/cyberfascinate" target="blank"><img src="https://img.shields.io/twitter/follow/cyberfascinate?logo=twitter&style=for-the-badge" alt="cyberfascinate" /></a> </p>
 <br>
 
-- 🌱 I’m currently learning Cyber Security and other programming languages
 
-- 👨‍💻 All of my projects are available at [https://github.com/cyberfascinate?tab=repositories](https://github.com/cyberfascinate?tab=repositories)
 
-- 📝 I regularly write articles on [https://cyberzfascinate.blogspot.com/](https://cyberzfascinate.blogspot.com/)
+Cybersecurity Enthusiast learning webpentest
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-  🐱‍👤Cybersecurity Enthusiast || Cyber Security Intern at Cybersecured India 
+- 🔭 I’m currently playing CTF , try to solving rooms on tryhackme also learning on HTB also sharing my learning exp on my blog site  <br>if u like do check it out !
+- 🌱 I’m currently learning **webpentesting**
+- 🤝 I’m love to connect like minded people like you **[Connect](https://www.linkedin.com/in/cyberfascinate/)<br>**
 
-- 📫 How to reach me **cyberfascinate@gmail.com**
+- 🤝 I’m looking for help with **Open-sources project**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- 💬 Ask me about **Tech,Astro,Hacking**
+
 
 <br>
 
