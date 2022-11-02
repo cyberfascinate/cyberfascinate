@@ -85,8 +85,8 @@ from world import love
 class HumanBeing:
 
     def __init__(self):
-        self.name = "Rahul thakur"
-        self.username = ["Rahul-Thakur7", "_TheFalcon_"]
+        self.name = "Kashish Kanojia"
+        self.username = ["cyberfascinate"]
         self.pronouns = ["He", "Him"]
         self.role = "Cybersecurity Enthusiast"
         self.code = ["Python", "Javascript", "HTML", "CSS", "Bash"]
@@ -119,7 +119,3 @@ me = HumanBeing()
 me.say_hi()
 love.everyone()
 ```
-
-
-<!-- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-thakur7&show_icons=true&locale=en&layout=compact" alt="rahul-thakur7" /></p> -->
