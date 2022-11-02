@@ -78,3 +78,48 @@ Cybersecurity Enthusiast learning webpentest
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberfascinate&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="cyberfascinate" /></p>
+
+```python
+from world import love
+
+class HumanBeing:
+
+    def __init__(self):
+        self.name = "Rahul thakur"
+        self.username = ["Rahul-Thakur7", "_TheFalcon_"]
+        self.pronouns = ["He", "Him"]
+        self.role = "Cybersecurity Enthusiast"
+        self.code = ["Python", "Javascript", "HTML", "CSS", "Bash"]
+        
+        self.askMeAbout = ["Tech", "hacking", "actronomy", "ideas",]
+        self.technologies = {
+            "frontEnd" : ["HTML", "CSS"],
+            "backEnd" : ["Nodejs", "expjs"],
+            "databases" : ["mongoDB", "MySql", "Sql"],
+            "misc" : ["heroku","netlify", "docker"],
+            "Virtualization" : ["VMware", "Virtualbox"],
+            "OS" : ["linux", "win10"],
+            "tools" : ["sqlmap", "nmap", "wireshark", "and other open-source"]
+            
+            
+        }
+        self.learning_cybersec = {
+            "learning_on" : ["THM", "HTB"]
+          
+            
+        }
+        
+        self.currentFocus = "Learning Cybersecurity"
+        
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting!!")
+
+me = HumanBeing()
+me.say_hi()
+love.everyone()
+```
+
+
+<!-- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-thakur7&show_icons=true&locale=en&layout=compact" alt="rahul-thakur7" /></p> -->
