@@ -17,7 +17,7 @@
 
 Cybersecurity Enthusiast learning webpentest
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
--  🐱‍👤Cybersecurity Enthusiast || Cyber Security Intern at Cybersecured India 
+-  🐱‍👤Cybersecurity Enthusiast
 - 🔭 I’m currently playing CTF , try to solving rooms on tryhackme also learning on HTB also sharing my learning exp on my blog site  <br>if u like do check it out !
 - 🌱 I’m currently learning **webpentesting**
 - 🤝 I’m love to connect like minded people like you **[Connect](https://www.linkedin.com/in/cyberfascinate/)<br>**
