@@ -106,19 +106,9 @@ love.everyone()
 
 <h3 align="center">Code Along Music</h3>
 
-### 
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21b6xtgwhwk2e2fynz6xupiny&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31esgg5vfcwyc6u55nryv76wtxbe&cover_image=true&theme=compact&show_offline=false&background_color=121212" /></div>  
 
 <br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=canocalir&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>
-
 
 <h4>Statistical Data :-</h4>
 <p><img align="center"
