@@ -24,7 +24,7 @@ Cybersecurity Enthusiast learning webpentest
 
 - 🤝 I’m looking for help with **Open-sources project**
 
-- 💬 Ask me about **Tech,Astro,Hacking**
+- 💬 Ask me about **Tech, Hacking**
 
 
 <br>
@@ -48,51 +48,6 @@ Cybersecurity Enthusiast learning webpentest
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </p>
-
-<br>
-
-
-```python
-from world import love
-
-class HumanBeing:
-
-    def __init__(self):
-        self.name = "Kashish Kanojia"
-        self.username = ["cyberfascinate"]
-        self.pronouns = ["He", "Him"]
-        self.role = "Cybersecurity Enthusiast"
-        self.code = ["Python", "Javascript", "HTML", "CSS", "Bash"]
-        
-        self.askMeAbout = ["Tech", "hacking", "actronomy", "ideas",]
-        self.technologies = {
-            "frontEnd" : ["HTML", "CSS"],
-            "backEnd" : ["Nodejs", "expjs"],
-            "databases" : ["mongoDB", "MySql", "Sql"],
-            "misc" : ["heroku","netlify", "docker"],
-            "Virtualization" : ["VMware", "Virtualbox"],
-            "OS" : ["linux", "win10"],
-            "tools" : ["sqlmap", "nmap", "wireshark", "and other open-source"]
-            
-            
-        }
-        self.learning_cybersec = {
-            "learning_on" : ["THM", "HTB"]
-          
-            
-        }
-        
-        self.currentFocus = "Learning Cybersecurity"
-        
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting!!")
-
-me = HumanBeing()
-me.say_hi()
-love.everyone()
-```
-
 
 <br>
 
