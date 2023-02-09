@@ -30,31 +30,25 @@ Cybersecurity Enthusiast learning webpentest
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.youtube.com/channel/UCnYOx0jmT2w5pVluEtzyTww" target="blank"><img align="center"
-      src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://discord.gg/PVnckpZzXG" target="blank"><img align="center"
-      src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/cyberfascinate" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/Cyberzfascinate" target="blank"><img align="center"
-      src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg"
-      alt="adampithewan" height="30" width="40" /></a>
- <a href="https://twitter.com/cyberfascinate" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
-   <a href="https://www.twitch.tv/cyberfascinate" target="blank"><img align="center"
-      src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitch.svg"
-      alt="adampithewan" height="30" width="40" /></a>
-   <a href="https://www.patreon.com/cyberfascinate" target="blank"><img align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/9/94/Patreon_logo.svg"
-      alt="adampithewan" height="30" width="40" /></a>
-     <a href="https://www.linkedin.com/in/cyberfascinate" target="blank"><img align="center"
-      src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+<p align="centre">
+   <a href="https://linkedin.com/in/canberkocalir" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/532938192291364887" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+   <a href="https://medium.com/@canocalir" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+  <a href="can.ocalir@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/10219474/can-berk-ocalir" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://twitter.com/canberkocalir" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
 </p>
 
 <br>
