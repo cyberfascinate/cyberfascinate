@@ -51,15 +51,17 @@ Cybersecurity Enthusiast learning webpentest
 
 <br>
 
-<a href="https://app.daily.dev/cyberfascinate"><img src="https://api.daily.dev/devcards/c6db9ea507154d33aa0a181bc928935b.png?r=481" width="400" alt="Kashish Kanojia's Dev Card"/></a>
+<h3 align="center">DevCard</h3>
 
-<h3 align="center">Code Along Music</h3>
+<a href="https://app.daily.dev/cyberfascinate"><img align="center" src="https://api.daily.dev/devcards/c6db9ea507154d33aa0a181bc928935b.png?r=481" width="400" alt="Kashish Kanojia's Dev Card"/></a>
+
+<h4 align="center">Code Along Music</h4>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31esgg5vfcwyc6u55nryv76wtxbe&cover_image=true&theme=compact&show_offline=false&background_color=121212" /></div>  
 
 <br/>  
 
-<h4>Statistical Data :-</h4>
+<h5>Statistical Data :-</h5>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberfascinate&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
