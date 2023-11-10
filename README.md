@@ -51,6 +51,8 @@ Cybersecurity Enthusiast learning webpentest
 
 <br>
 
+<a href="https://app.daily.dev/cyberfascinate"><img src="https://api.daily.dev/devcards/c6db9ea507154d33aa0a181bc928935b.png?r=481" width="400" alt="Kashish Kanojia's Dev Card"/></a>
+
 <h3 align="center">Code Along Music</h3>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31esgg5vfcwyc6u55nryv76wtxbe&cover_image=true&theme=compact&show_offline=false&background_color=121212" /></div>  
