@@ -1,32 +1,36 @@
-<h1 align="left">$whoami?</h1>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px">, I'm Kashish Kanojia</h1>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=%23+whoami;%E2%9C%93+Web+Developer;%E2%9C%93+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93++;%E2%9C%93++)](https://git.io/typing-svg)
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
-
-
-
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberfascinate&label=Profile%20views&color=0e75b6&style=flat" alt="cyberfascinate" /> </p>
-<p align="left"> <a href="https://twitter.com/cyberfascinate" target="blank"><img src="https://img.shields.io/twitter/follow/cyberfascinate?logo=twitter&style=for-the-badge" alt="cyberfascinate" /></a> </p>
-<br>
-
-
-
-Cybersecurity Enthusiast learning webpentest
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
--  🐱‍👤Cybersecurity Enthusiast
-- 🔭 I’m currently playing CTF , try to solving rooms on tryhackme also learning on HTB also sharing my learning exp on my blog site  <br>if u like do check it out !
-- 🌱 I’m currently learning **webpentesting**
-- 🤝 I’m love to connect like minded people like you **[Connect](https://www.linkedin.com/in/cyberfascinate/)<br>**
-
-- 🤝 I’m looking for help with **Open-sources project**
-
-- 💬 Ask me about **Tech, Hacking**
-
+<div style="background: green ">
+<!-- top left -->
 <div>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right"/> 
+</div>
+
+<!-- first row -->
+<p align="center">
+<a href="https://cyberfascinate.github.io">
+    <img src="https://camo.githubusercontent.com/38bf262e2c177202fedef68851784c63dad5bb64/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6172736869616d69646f73">
+    <img alt="GitHub" src="https://img.shields.io/github/followers/cyberfascinate?style=social">
+</a>
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p>
+
+
+<!-- chess -->    
+<div align="left" width="100%">
+    <!-- chess.com profile -->
+    <img width="44%" style="margin:0px;padding:0px" heigth="445px" src="https://raw.githubusercontent.com/cyberfascinate/gess/main/chess1.svg" align="left"/>
+    <!-- chess.com last game -->
+    <img width="44%" style="margin:0px;padding:0px" heigth="445px" src="https://raw.githubusercontent.com/cyberfascinate/gess/main/chess.svg" align="right"/>
+</div>
+    
+<div align="left" width="100%" height="445px">
+    <!-- spotify -->
+    <img width="44%" style="margin:0px;padding:0px" heigth="445px" src="https://spotify-github-profile.vercel.app/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true&theme=default" align="left"/>
+    <!-- soundcloud -->
+    <img width="40%" style="margin:0px;padding:0px" heigth="445px" src="https://soundcloud-last-song.vercel.app/api/soundcloud" align="right"/>
+</div>
+
 <!-- thropy -->
 <a href="https://cyberfascinate.github.io">
     <p align="center">
@@ -161,6 +165,3 @@ Cybersecurity Enthusiast learning webpentest
 </a>
 </p>
 </div>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberfascinate&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="cyberfascinate" /></p>
