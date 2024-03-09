@@ -1,6 +1,9 @@
 <h1 align="left">$whoami?</h1>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px">, I'm Kashish Kanojia</h1>
 
+<p align="center">
+<a href="mailto:cyberfascinate" title="Email Address"><code>cyberfascinate@gmail.com</code></a> │ <a href="https://keybase.io/cyberfascinate/pgp_keys.asc?fingerprint=12ed0511a23a964803d0fa7c85451d10610c502e" title="PGP Public Key"><code>8545 1D10 610C 502E </code></a> │ <a href="https://matrix.to/#/@cyberfascinate:matrix.org" title="Matrix User ID"><code>@cyberfascinate:matrix.org</code></a>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=%23+whoami;%E2%9C%93+Web+Developer;%E2%9C%93+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93++;%E2%9C%93++)](https://git.io/typing-svg)
 <img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
@@ -21,10 +24,6 @@ Cybersecurity Enthusiast learning webpentest
 - 🔭 I’m currently playing CTF , try to solving rooms on tryhackme also learning on HTB also sharing my learning exp on my blog site  <br>if u like do check it out !
 - 🌱 I’m currently learning **webpentesting**
 - 🤝 I’m love to connect like minded people like you **[Connect](https://www.linkedin.com/in/cyberfascinate/)<br>**
-- <!-- Contact and keys -->
-<p align="center">
-<a href="mailto:cyberfascinate" title="Email Address"><code>alicia at omg dot lol</code></a> │ <a href="https://keybase.io/cyberfascinate/pgp_keys.asc?fingerprint=12ed0511a23a964803d0fa7c85451d10610c502e" title="PGP Public Key"><code>8545 1D10 610C 502E </code></a> │ <a href="https://matrix.to/#/@cyberfascinate:matrix.org" title="Matrix User ID"><code>@cyberfascinate:matrix.org</code></a>
-</p>
 
 <br>
 
