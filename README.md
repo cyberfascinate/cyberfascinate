@@ -21,11 +21,10 @@ Cybersecurity Enthusiast learning webpentest
 - 🔭 I’m currently playing CTF , try to solving rooms on tryhackme also learning on HTB also sharing my learning exp on my blog site  <br>if u like do check it out !
 - 🌱 I’m currently learning **webpentesting**
 - 🤝 I’m love to connect like minded people like you **[Connect](https://www.linkedin.com/in/cyberfascinate/)<br>**
-
-- 🤝 I’m looking for help with **Open-sources project**
-
-- 💬 Ask me about **Tech, Hacking**
-
+- <!-- Contact and keys -->
+<p align="center">
+<a href="mailto:cyberfascinate" title="Email Address"><code>alicia at omg dot lol</code></a> │ <a href="https://keybase.io/cyberfascinate/pgp_keys.asc?fingerprint=12ed0511a23a964803d0fa7c85451d10610c502e" title="PGP Public Key"><code>8545 1D10 610C 502E </code></a> │ <a href="https://matrix.to/#/@cyberfascinate:matrix.org" title="Matrix User ID"><code>@cyberfascinate:matrix.org</code></a>
+</p>
 
 <br>
 
