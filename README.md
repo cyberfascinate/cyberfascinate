@@ -51,7 +51,7 @@ Cybersecurity Enthusiast learning webpentest
 
 <h3 align="center">DevCard</h3>
 
-<a href="https://app.daily.dev/cyberfascinate"><img align="center" src="https://github.com/cyberfascinate/cyberfascinate/blob/main/devcard.svg" width="400" alt="Kashish Kanojia's Dev Card"/></a>
+<a href="https://app.daily.dev/cyberfascinate"><img src="https://api.daily.dev/devcards/v2/QZhlwaiOWmwMdmonifOuP.png?type=wide&r=sho" width="652" alt="Kashish Kanojia's Dev Card"/></a>
 
 <h4 align="center">Code Along Music</h4>
 
