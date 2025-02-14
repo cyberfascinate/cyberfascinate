@@ -61,10 +61,6 @@ Cybersecurity Enthusiast learning webpentest
 
 <h5>Statistical Data :-</h5>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberfascinate&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="cyberfascinate" /></p>
-
-
-
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=105162677" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=105162677&image_size=auto&color_scheme=dark" width="771" height="auto">
