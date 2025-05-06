@@ -47,18 +47,6 @@ Cybersecurity Enthusiast learning webpentest
   </a>
 </p>
 
-<br>
-
-<h3 align="center">DevCard</h3>
-
-<a href="https://app.daily.dev/cyberfascinate"><img src="https://api.daily.dev/devcards/v2/QZhlwaiOWmwMdmonifOuP.png?type=wide&r=sho" width="652" alt="Kashish Kanojia's Dev Card"/></a>
-
-<h4 align="center">Code Along Music</h4>
-
-<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31esgg5vfcwyc6u55nryv76wtxbe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" /></div>  
-
-<br/>  
-
 <h5>Statistical Data :-</h5>
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=105162677" target="_blank" style="display: block" align="center">
