@@ -1,84 +1,99 @@
-<h1 align="left">$whoami?</h1>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px">, I'm Kashish Kanojia</h1>
+<div align="center">
+
+# KASHISH KANOJIA
+### **Founder & CEO, IDevSec** · **Creator, Creduent Open Protocol** · **Leader, 0x0 PIR4T3S**
+
+[Executive Dossier](https://cyberfascinate.idevsec.com) │ [IDevSec](https://idevsec.com) │ [Creduent Open Protocol](https://idevsec.com/creduent) │ [LinkedIn](https://linkedin.com/in/cyberfascinate) │ [Twitter](https://x.com/cyberfascinate)
 
 <p align="center">
-<a href="mailto:founder@idevsec.com" title="Email Address"><code>founder@idevsec.com</code></a> │ <a href="https://keybase.io/cyberfascinate/pgp_keys.asc?fingerprint=12ed0511a23a964803d0fa7c85451d10610c502e" title="PGP Public Key"><code>8545 1D10 610C 502E </code></a> │ <a href="https://matrix.to/#/@cyberfascinate:matrix.org" title="Matrix User ID"><code>@cyberfascinate:matrix.org</code></a>
+  <img src="https://img.shields.io/badge/IDENTIFIER-@cyberfascinate-050508?style=for-the-badge&logo=github&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-050508?style=for-the-badge&logo=statuspage&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/LOCATION-INDIA-050508?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=%23+whoami;%E2%9C%93+Web+Developer;%E2%9C%93+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93++;%E2%9C%93++)](https://git.io/typing-svg)
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+---
 
+</div>
 
+## ARCHITECTURAL THESIS & CORE FOCUS
 
-<br>
+Engineering the cryptographic floor and zero-trust identity layer for autonomous AI systems. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberfascinate&label=Profile%20views&color=0e75b6&style=flat" alt="cyberfascinate" /> </p>
-<p align="left"> <a href="https://twitter.com/cyberfascinate" target="blank"><img src="https://img.shields.io/twitter/follow/cyberfascinate?logo=twitter&style=for-the-badge" alt="cyberfascinate" /></a> </p>
-<br>
+> **Core Thesis:** Autonomous agency without verifiable identity and reversibility boundaries poses systemic infrastructure risk. The decision-rights gate must exist outside the agent's LLM context window, governed by Ed25519 steward signatures and immutable attestation.
 
+The Creduent Open Protocol architecture is defined by three primitives:
 
+```rust
+// Creduent Protocol Architectural Floor — Three Core Primitives
+manifest.steward_sig    = ed25519::verify(steward_pubkey, payload);  // Cryptographic proof of agent origin
+deterministic.gate      = outside_context_loop();                    // Policy gate un-bypassing by prompt injection
+action_reversibility    = classify(read, soft_write, irreversible);  // Worst-case action class governs execution
+```
 
-Cybersecurity Enthusiast learning webpentest
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
--  🐱‍👤Cybersecurity Enthusiast
-- 🔭 I’m currently playing CTF , try to solving rooms on tryhackme also learning on HTB also sharing my learning exp on my blog site  <br>if u like do check it out !
-- 🌱 I’m currently learning **webpentesting**
-- 🤝 I’m love to connect like minded people like you **[Connect](https://www.linkedin.com/in/cyberfascinate/)<br>**
+---
 
-<br>
+## EXECUTIVE POSITIONS & FOUNDATIONAL WORK
 
-<h3 align="left">Connect with me:</h3>
-<p align="centre">
-   <a href="https://linkedin.com/in/cyberfascinate" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  </a>
-   <a href="https://medium.com/@cyberfascinate" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-  <a href="cyberfascinate@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/20077008/kashish-kanojia" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://twitter.com/cyberfascinate" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</p>
+* **IDevSec: Founder & Chief Executive Officer**
+  [https://idevsec.com](https://idevsec.com)
+  Architecting verifiable trust infrastructure, decentralized attestation registries, and zero-trust security controls for enterprise AI agent systems.
 
-<h5>Statistical Data :-</h5>
+* **Creduent Open Protocol: Creator & Chief Architect**
+  [https://idevsec.com/creduent](https://idevsec.com/creduent)
+  Authoring the open application-layer protocol for Ed25519 steward signatures, DNS-bound identity (TXT records), and action reversibility rules.
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=105162677" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=105162677&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @cyberfascinate" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=105162677&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+* **0x0 PIR4T3S: Leader & Founder**
+  Directing a global practitioner-led hacking collective and research movement spanning offensive cybersecurity, open-source software, and AI ecosystems.
 
-<a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=565290801" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=565290801&image_size=auto&color_scheme=dark" width="815" height="auto">
-    <img alt="Activity Trends of cyberfascinate/ISC2-CC-Study-Material - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=565290801&image_size=auto&color_scheme=light" width="815" height="auto">
-  </picture>
-</a>
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map?repo_id=565290801&activity=stars" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=565290801&activity=stars&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Star Geographical Distribution of pingcap/tidb" src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=565290801&activity=stars&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-company?repo_id=565290801&activity=stars" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?repo_id=565290801&activity=stars&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Company Affiliation of pingcap/tidb" src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?repo_id=565290801&activity=stars&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
+---
 
+## RESPONSIBLE DISCLOSURES & RECOGNITIONS
 
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=105162677&period=all_times" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=105162677&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Contribution Time Distribution of @cyberfascinate" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=105162677&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
+Recognized for security disclosures across 20+ global organizations and federal agencies:
+
+* **United States Department of Defense (DoD)**: Vulnerability Disclosure Program Recognition (via HackerOne)
+* **National Aeronautics and Space Administration (NASA)**: Vulnerability Disclosure Hall of Fame (via Bugcrowd)
+* **NCIIPC (National Critical Information Infrastructure Protection Centre, India)**: Special Security Acknowledgement
+* **U.S. Department of Labor**: Security Vulnerability Disclosure Hall of Fame
+* **Air Canada**: Security Vulnerability Disclosure Hall of Fame
+* **U.S. Department of Veterans Affairs**: Security Vulnerability Disclosure Hall of Fame
+
+---
+
+## PROFESSIONAL CERTIFICATIONS
+
+* **Microsoft Certified: Cybersecurity Architect Expert**
+* **Oracle Cloud Infrastructure 2025 Certified Associate**
+* **Certified Cloud Security Practitioner - AWS (CCSP-AWS)**
+* **Certified AppSec Practitioner (CAP)**
+* **Certified Network Security Practitioner (CNSP)**
+
+---
+
+## COMMUNITY GOVERNANCE & TECHNICAL LEADERSHIP
+
+* **0x0 PIR4T3S**: Founder & Research Leader
+* **openSUSE Project**: Organizing Team Member (openSUSE Asia Summit 2025)
+* **Global Cybersecurity Association (GCA)**: Committee Member
+* **DEF CON Groups (DCG-91124 Gurugram)**: Founder & POC
+* **BSides Noida**: Co-Founder & Lead
+* **OWASP® Foundation**: Chapter Lead & Advisor
+
+---
+
+## DIRECT COMMUNICATIONS
+
+* **Executive Dossier**: [https://cyberfascinate.idevsec.com](https://cyberfascinate.idevsec.com)
+* **Corporate Desk**: `founder@idevsec.com`
+* **PGP Fingerprint**: `12ED 0511 A23A 9648 03D0 FA7C 8545 1D10 610C 502E`
+* **Matrix**: `@cyberfascinate:matrix.org`
+
+---
+
+<div align="center">
+
+```
+[ IDEVSEC TRUST INFRASTRUCTURE • CREDUENT PROTOCOL ARCHITECTURE • VERIFIED OPERATIONAL ]
+```
+
+</div>
