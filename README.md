@@ -3,25 +3,33 @@
 # KASHISH KANOJIA
 ### **Founder & CEO, IDevSec** · **Creator, Creduent Open Protocol** · **Leader, 0x0 PIR4T3S**
 
-[Executive Dossier](https://cyberfascinate.idevsec.com) │ [IDevSec](https://idevsec.com) │ [Creduent Open Protocol](https://idevsec.com/creduent) │ [LinkedIn](https://linkedin.com/in/cyberfascinate) │ [Twitter](https://x.com/cyberfascinate)
+> *"Even Dead, I'm The Hero"*
+
+[Executive Portfolio](https://cyberfascinate.idevsec.com) │ [IDevSec](https://idevsec.com) │ [Creduent Open Protocol](https://idevsec.com/creduent) │ [ORCID](https://orcid.org/0009-0002-3978-9363) │ [Keybase](https://keybase.io/cyberfascinate) │ [LinkedIn](https://linkedin.com/in/cyberfascinate) │ [Twitter](https://x.com/cyberfascinate)
 
 <p align="center">
   <img src="https://img.shields.io/badge/IDENTIFIER-@cyberfascinate-050508?style=for-the-badge&logo=github&logoColor=10B981" />
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-050508?style=for-the-badge&logo=statuspage&logoColor=10B981" />
-  <img src="https://img.shields.io/badge/LOCATION-INDIA-050508?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/LOCATION-NEW_DELHI,_INDIA-050508?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" />
 </p>
 
 ---
 
 </div>
 
-## ARCHITECTURAL THESIS & CORE FOCUS
+## ABOUT ME & WHAT I DO
 
-Engineering the cryptographic floor and zero-trust identity layer for autonomous AI systems. 
+Hi, I am **Kashish Kanojia** (known online as **`CyberFascinate`**). I am a Cybersecurity Architect, Founder & CEO of **IDevSec**, Creator of the **Creduent Open Protocol**, and Founder of the **0x0 PIR4T3S** hacking collective.
+
+* **Building**: [IDevSec](https://idevsec.com) (Trust Infrastructure for Autonomous AI Agents) and [Creduent Open Protocol](https://idevsec.com/creduent) (Ed25519 steward signatures and action reversibility rules).
+* **Researching**: Agentic AI security, zero-trust identity, digital forensics, offensive vulnerability research (VAPT), and cloud security architecture.
+* **Leading**: [0x0 PIR4T3S](https://cyberfascinate.idevsec.com/showcase) research collective, community tech labs, and open-source security initiatives.
+
+---
+
+## ARCHITECTURAL THESIS
 
 > **Core Thesis:** Autonomous agency without verifiable identity and reversibility boundaries poses systemic infrastructure risk. The decision-rights gate must exist outside the agent's LLM context window, governed by Ed25519 steward signatures and immutable attestation.
-
-The Creduent Open Protocol architecture is defined by three primitives:
 
 ```rust
 // Creduent Protocol Architectural Floor — Three Core Primitives
@@ -32,24 +40,9 @@ action_reversibility    = classify(read, soft_write, irreversible);  // Worst-ca
 
 ---
 
-## EXECUTIVE POSITIONS & FOUNDATIONAL WORK
+## RESPONSIBLE DISCLOSURES & HALL OF FAMES
 
-* **IDevSec: Founder & Chief Executive Officer**
-  [https://idevsec.com](https://idevsec.com)
-  Architecting verifiable trust infrastructure, decentralized attestation registries, and zero-trust security controls for enterprise AI agent systems.
-
-* **Creduent Open Protocol: Creator & Chief Architect**
-  [https://idevsec.com/creduent](https://idevsec.com/creduent)
-  Authoring the open application-layer protocol for Ed25519 steward signatures, DNS-bound identity (TXT records), and action reversibility rules.
-
-* **0x0 PIR4T3S: Leader & Founder**
-  Directing a global practitioner-led hacking collective and research movement spanning offensive cybersecurity, open-source software, and AI ecosystems.
-
----
-
-## RESPONSIBLE DISCLOSURES & RECOGNITIONS
-
-Recognized for security disclosures across 20+ global organizations and federal agencies:
+Recognized for vulnerability disclosures across 20+ global organizations and federal agencies:
 
 * **United States Department of Defense (DoD)**: Vulnerability Disclosure Program Recognition (via HackerOne)
 * **National Aeronautics and Space Administration (NASA)**: Vulnerability Disclosure Hall of Fame (via Bugcrowd)
@@ -81,10 +74,12 @@ Recognized for security disclosures across 20+ global organizations and federal 
 
 ---
 
-## DIRECT COMMUNICATIONS
+## GET IN TOUCH
 
-* **Executive Dossier**: [https://cyberfascinate.idevsec.com](https://cyberfascinate.idevsec.com)
-* **Corporate Desk**: `founder@idevsec.com`
+* **Personal Portfolio**: [https://cyberfascinate.idevsec.com](https://cyberfascinate.idevsec.com)
+* **Keybase**: [https://keybase.io/cyberfascinate](https://keybase.io/cyberfascinate)
+* **ORCID**: [0009-0002-3978-9363](https://orcid.org/0009-0002-3978-9363)
+* **Direct Email**: `founder@idevsec.com`
 * **PGP Fingerprint**: `12ED 0511 A23A 9648 03D0 FA7C 8545 1D10 610C 502E`
 * **Matrix**: `@cyberfascinate:matrix.org`
 
